@@ -1,0 +1,44 @@
+
+body{
+  background-color: #080808;
+  position: absolute;
+    top: 50px;
+  left: 50px;
+}
+#Intro{
+position: relative;
+    top: 100px;
+  left: 0px;
+  font-family:merriweather;
+  font-size:50px;
+  text-decoration: overline;
+
+}
+#info{
+  position: relative;
+    top: 7px;
+  left: 680px;
+  font-family:verdana;
+  font-weight: normal;
+}
+
+#about{
+  position: relative;
+    top: 0px;
+  left: 0px;
+  }
+
+.date{
+  border-style: ridge;
+  border-color:  #333333;
+  background-color: #4c8bf5;
+ padding: 3px;
+  width: 150px;
+  position: relative;
+  top: -40px;
+  left: 690px;
+
+}
+
+
+

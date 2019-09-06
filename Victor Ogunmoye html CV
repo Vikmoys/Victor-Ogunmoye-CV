@@ -6,14 +6,15 @@
    href="CV_style.css" />
   
 <body>
-  <h1 id = "Intro" style="color:#ff6347">
+ <h1 id = "Intro" style="color:#ff6347">
       Victor Itunuoluwa Ogunmoye </h1> 
     <h5 id = "info" style="color:#ff6347"> 49, zone C, olonde estate,<br> ologuneru, Ibadan.<br>
 (+234) 8135641644 <br>
 ogunmoyevictor@gmail.com
     </h5>
    <p id= "about" ><font color="white">Resourceful and innovative mechanical engineer who is particularly interested in technological ideas <br> that can make the world a better place. By effectively interacting with all clients, he is able to pioneer <br> creative solutions and design and implement new systems that enhance corporate growth aspirations.</font> </p>
-  
+  </head>
+  <body>
     <h3><font color= "Tomato">
       EXPERIENCE
       </font></h3>
@@ -44,7 +45,7 @@ ogunmoyevictor@gmail.com
   <li>Procurement of spare parts from the store</li>
   <li>Filling of customer information handbook
 </li>
-      <li> Routine servicing of Toyota vehicles</li></font>
+      <li> Routine servicing of Toyota vehicles</li>
   <li> Pumping of refrigerant into a car air conditioner
       </li>
 </ul>
@@ -90,7 +91,20 @@ This is a project that will potentially solve the problem of grain post-harvest 
 </li>
       <li> Certificate of Merit Award (General secretary 2016/17 session) Ransome - kuti hall, University of Ibadan
       </font> </li>  
+  
+  <h2><font color= "Tomato">
+       CONTENT ADDRESS
+       </font></h3>
+  
+       <div class="login-page">
+       <div class="form">
+            <form class="login-form">
+
+                <input type="name" placeholder="Full name">
+                <input type="email" placeholder="Email Address">
+              <input type="message" placeholder="Message" id = "dif">
       
+                <a href="#"><button>Submit</button></a>
   </ul>
   </body>
 </head>

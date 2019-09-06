@@ -1,6 +1,6 @@
 
 body{
-  background-color: #080808;
+  background-color: #2D2926FF;
   position: absolute;
     top: 50px;
   left: 50px;
@@ -39,6 +39,48 @@ position: relative;
   left: 690px;
 
 }
+form {
+    position: relative;
+     top: 0px;
+    z-index: 1;
+    background: grey;
+    border-radius: 5px;
+    max-width: 800px;
+    margin: 0 auto 100px;
+    padding: 65px;
+  text-align: center;
+}
+input {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    outline: 1;
+    background: #f2f2f2;
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
 
+#dif{
 
+overflow-wrap: break word;
+  
+}
+button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    outline: 0;
+    background:tomato;
+    width: 146px;
+    height: 45px;
+    ;
+    border: 0%;
+    border-radius: 5px;
+    text-align: center;
+    float: right;
+    color: #ffffff;
+    font-size: 14px;
+    cursor: pointer;
+}
 

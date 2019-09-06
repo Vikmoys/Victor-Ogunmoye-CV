@@ -1,63 +1,74 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <h1>Victor Itunuoluwa Ogunmoye</h1> 
-    <h5> 49, zone C, olonde estate, ologuneru, Ibadan.<br>
+﻿<!DOCTYPE html>
+<html> 
+<head>
+<link rel="stylesheet"
+   type="text/css"
+   href="CV_style.css" />
+  
+<body>
+  <h1 id = "Intro" style="color:#ff6347">
+      Victor Itunuoluwa Ogunmoye </h1> 
+    <h5 id = "info" style="color:#ff6347"> 49, zone C, olonde estate,<br> ologuneru, Ibadan.<br>
 (+234) 8135641644 <br>
 ogunmoyevictor@gmail.com
     </h5>
-   <p>Resourceful and innovative mechanical engineer who is particularly interested in technological ideas <br> that can make the world a better place. By effectively interacting with all clients, he is able to pioneer <br> creative solutions and design and implement new systems that enhance corporate growth aspirations.</p>
-  </head>
-  <body>
-    <h3><font color= "blue">
+   <p id= "about" ><font color="white">Resourceful and innovative mechanical engineer who is particularly interested in technological ideas <br> that can make the world a better place. By effectively interacting with all clients, he is able to pioneer <br> creative solutions and design and implement new systems that enhance corporate growth aspirations.</font> </p>
+  
+    <h3><font color= "Tomato">
       EXPERIENCE
       </font></h3>
-    <p> Devtek Tanks, Ibadan — Project Engineer <br> June 2019 -Present
+    <p><font color="white"> Devtek Tanks, Ibadan — Project Engineer</font> </p>
+    <p class = "date"><font color = "white">June 2019 -Present
     
-    </p>
-    <ul style= "list-style-type:circle;">
+      </font></p>
+    <ul style= "list-style-type:circle;"><font color="white">
   <li>Product Design</li>
   <li>CAD design and manufacturing</li>
   <li>Product installation and maintenance</li>
-</ul>
-     <p> TAT Engineering workshop,Ibadan  — Intern <br> 
-      Sept 2017 -Feb 2018</p>
-    <ul style= "list-style-type:circle;">
+      </font> </ul>
+    <p><font color="white"> TAT Engineering workshop,Ibadan  — Intern </font> </p>
+    <p class ="date"><font color="white">
+      Sept 2017 -Feb 2018</font> </p>
+    <ul style= "list-style-type:circle;"><font color="white">
   <li>Machining metal parts with different types of lathe and milling machines</li>
   <li>Drilling with aid of pillar drilling machine, radial drilling machines and the hand-held power drill
 </li>
   <li> Heat treatment (Annealing and Hardening of steel)</li>
-      <li> Drawing and designing of machine parts with Autodesk inventor.</li>
+      <li> Drawing and designing of machine parts with Autodesk inventor.</li> </font>
     </ul>      
     
-<p>Toyota Elizade Nig. Ltd, Ibadan — Intern <br> 
-     Dec 2015 -Feb 2016</p>
-    <ul style= "list-style-type:circle;">
+    <p><font color = "white">Toyota Elizade Nig. Ltd, Ibadan — Intern </font></p>
+    <p class ="date"><font color = "white">
+      Dec 2015 -Feb 2016</font> </p>
+    <ul style= "list-style-type:circle;"><font color = "white">
   <li>Procurement of spare parts from the store</li>
   <li>Filling of customer information handbook
 </li>
-  <li> Routine servicing of Toyota vehicles</li>
+      <li> Routine servicing of Toyota vehicles</li></font>
   <li> Pumping of refrigerant into a car air conditioner
       </li>
 </ul>
-     <h3><font color= "blue">
+     <h3><font color= "Tomato">
        EDUCATION
        </font></h3>
-    <p>University of Ibadan, Ibadan — BSc Mechanical Engineering (2nd class upper)
-<br> June 2014 -April 2019</p>
-    <p>The International School, Ibadan— West African Senior Secondary Certificate Examination (WASCE) 
-
-<br> Sept 2007 - July 2013</p>
-    <h3><font color= "blue">
+    <p><font color = "white">University of Ibadan, Ibadan — BSc Mechanical Engineering (2nd class upper)</font></P>
+    <p class = "date"><font color = "white">June 2014 -April 2019</font> </p>
+    <p><font color = "white">The International School, Ibadan— West African Senior Secondary Certificate Examination (WASCE) 
+      </font> </p>
+    <p class ="date"> <font color = "white"> Sept 2007 - July 2013 </font> </p>
+    <h3><font color= "Tomato">
        PROJECTS
        </font></h3>
-    <p>SiloG — <br>
-This is a project that will potentially solve the problem of grain post-harvest losses in sub-saharan Africa.
-<h3><font color= "blue">
+    <p><font color = "white">SiloG — <br>
+This is a project that will potentially solve the problem of grain post-harvest losses in sub-saharan Africa.</font> </p>
+    <p><font color = "white">Team Lead during Start.ng internship-<br>
+      I headed a team of 100 members to build a web and mobile app for a client/ developer service system
+      </font> </p>
+<h3><font color= "Tomato">
        IT
        </font></h3>
     </p>
-    <ul style= "list-style-type:circle;">
+    <ul style= "list-style-type:circle;"><font color = "white">
   <li>Social media and other electronic platforms</li>
   <li>Microsfot suite(Excel, Powerpoint, Word)</li>
   <li>FORTRAN</li>
@@ -65,11 +76,12 @@ This is a project that will potentially solve the problem of grain post-harvest 
       <li> AutoCAD</li>
       <li>COMSOL multi-physics modelling</li>
       <li>ANSYS engineering simulation and 3D design software</li>
+      <li>HTML, CSS and Javascript</li> </font>
   </ul>
-      <h3><font color= "blue">
+      <h3><font color= "Tomato">
    AWARDS
        </font></h3>
-    <ul style= "list-style-type:circle;">
+    <ul style= "list-style-type:circle;"><font color = "white">
   <li>Certificate of Excellence (2nd runner up) Hult prize On campus competition (UNIVERSITY OF IBADAN)
 </li>
   <li>Certificate of Excellence (3rd runner-up) Prof. Ayodele Awojobi Design competition (PAADC)    
@@ -77,8 +89,10 @@ This is a project that will potentially solve the problem of grain post-harvest 
   <li>Certificate of Recognition as a stage 2 innovator Shell ideas 360
 </li>
       <li> Certificate of Merit Award (General secretary 2016/17 session) Ransome - kuti hall, University of Ibadan
-</li>  
+      </font> </li>  
       
   </ul>
+  </body>
+</head>
  </html>
 
